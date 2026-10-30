@@ -2,11 +2,11 @@
 
 # Glampoint
 
-**Salonun günlük işlerini netleştirin.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/product-hero.svg" width="100%" alt="Glampoint — Salon operations; kavramsal çizim" />
+<img src="assets/product-hero.svg" width="100%" alt="Glampoint — ürün görsel sunumu" />
+
+**Salonun günlük işlerini netleştirin.**
 
 [![Website](https://img.shields.io/badge/glampoint.mk-Official_Website-1476e8?style=for-the-badge)](https://glampoint.mk/)
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://glampoint.mk/)
@@ -69,7 +69,7 @@ Pratik fayda, salon gününe bağlantılı bir bakış sunmasıdır. Planlama i�
 | Ayrıntı | Değer |
 |---|---|
 | Web sitesi | [glampoint.mk](https://glampoint.mk/) |
-| Kategori | Salon operations |
+| Kategori | Salon ve randevu yönetimi |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy iletişimi | [contact@processin.mk](mailto:contact@processin.mk) |
@@ -93,5 +93,4 @@ Sunum kaynakları: [1](https://glampoint.mk/).
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·

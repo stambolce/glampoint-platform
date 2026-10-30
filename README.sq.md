@@ -2,11 +2,11 @@
 
 # Glampoint
 
-**Qartësoni ditën e sallonit.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/product-hero.svg" width="100%" alt="Glampoint — Salon operations; ilustrim konceptual" />
+<img src="assets/product-hero.svg" width="100%" alt="Glampoint — prezantim vizual i produktit" />
+
+**Qartësoni ditën e sallonit.**
 
 [![Website](https://img.shields.io/badge/glampoint.mk-Official_Website-1476e8?style=for-the-badge)](https://glampoint.mk/)
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://glampoint.mk/)
@@ -69,7 +69,7 @@ Përfitimi praktik është një pamje e lidhur e ditës së sallonit. Orari treg
 | Hollësia | Vlera |
 |---|---|
 | Faqja | [glampoint.mk](https://glampoint.mk/) |
-| Kategoria | Salon operations |
+| Kategoria | Menaxhim salloni dhe takimesh |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Kontakti i portofolit | [contact@processin.mk](mailto:contact@processin.mk) |
@@ -93,5 +93,4 @@ Burimet e prezantimit: [1](https://glampoint.mk/).
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·
